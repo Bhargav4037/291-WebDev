@@ -32,3 +32,8 @@ Make sure you have installed *visual studio code or atom*, *Node.js*, *MongoDB* 
    * nodemon app.js
    
 * Run the server and open the website at http://localhost:3000/ localhost
+
+
+#Use Case Diagram
+![Screenshot-958.png](https://i.postimg.cc/bN84z1xR/Screenshot-958.png)](https://postimg.cc/xqx65JFk)
+
