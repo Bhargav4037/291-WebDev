@@ -33,6 +33,9 @@ Make sure you have installed *visual studio code or atom*, *Node.js*, *MongoDB* 
    
 * Run the server and open the website at http://localhost:3000/ localhost
 
+## Screenshots of the project running
+![imgonline-com-ua-twotoone-5-Av-Rm-OSj39-Pf-P44.png](https://i.postimg.cc/g00LwB9F/imgonline-com-ua-twotoone-5-Av-Rm-OSj39-Pf-P44.png)
+
 ## Use Case Diagram
 ![Whats-App-Image-2022-11-08-at-5-49-55-PM.jpg](https://i.postimg.cc/nrZk4YTV/Whats-App-Image-2022-11-08-at-5-49-55-PM.jpg)
 
