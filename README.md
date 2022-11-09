@@ -42,3 +42,9 @@ Make sure you have installed *visual studio code or atom*, *Node.js*, *MongoDB* 
 ## Class Diagram
 ![Screenshot-958.png](https://i.postimg.cc/bN84z1xR/Screenshot-958.png)
 
+## Sequence Diagrams
+
+###Search Engine Sequence
+![Whats-App-Image-2022-11-08-at-10-36-46-PM.jpg](https://i.postimg.cc/05BRLJwQ/Whats-App-Image-2022-11-08-at-10-36-46-PM.jpg)
+
+Remaining Sequence all upload in the above design document.
