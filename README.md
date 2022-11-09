@@ -45,6 +45,6 @@ Make sure you have installed *visual studio code or atom*, *Node.js*, *MongoDB* 
 ## Sequence Diagrams
 
 ### Search Engine Sequence
-![Whats-App-Image-2022-11-08-at-10-36-46-PM.jpg](https://i.postimg.cc/05BRLJwQ/Whats-App-Image-2022-11-08-at-10-36-46-PM.jpg)
+![SEARCH.jpg](https://i.postimg.cc/bNQPVCC4/SEARCH.jpg)
 
 Remaining Sequence Diagrams all upload in the above design document.
